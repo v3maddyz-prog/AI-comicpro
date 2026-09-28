@@ -1,0 +1,6 @@
+{
+  "name": "ComicCraft - AI Comic Book Studio",
+  "description": "Generate personalized multi-panel comic books with AI-powered stories, dynamic speech bubbles, comic-style illustrations, and downloadable PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
